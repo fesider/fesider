@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @fesider, I'm new to data analysis and keen on learning more about the field
-- 👀 I’m interested in story telling using data.
-- 🌱 I’m currently learning to explore..
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @fesider, I'm new to data analysis and keen on working on projects where I can apply my skills and learn new ones.
+- 👀 I’m interested in finding insights from complex and diverse data sets.
+- 🌱 I’m currently learning to run queries using SQL.
+- 💞️ I’m looking to collaborate on data analysis and visualisation projects
 - 📫 How to reach me ...
 
 <!---
